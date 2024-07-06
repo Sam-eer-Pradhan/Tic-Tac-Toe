@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.abhyudayasharma","l":"AppTest"},{"p":"com.abhyudayasharma.tictactoe","l":"Game"},{"p":"com.abhyudayasharma.tictactoe","l":"MagicSquare"},{"p":"com.abhyudayasharma.tictactoe","l":"Main"},{"p":"com.abhyudayasharma.tictactoe","l":"PlayerType"}]
